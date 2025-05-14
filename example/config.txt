@@ -1,0 +1,2 @@
+Prefix plugins/KRLS/example/
+Plugin KRLS inputfile parameters.train.txt outputfile output.rds
